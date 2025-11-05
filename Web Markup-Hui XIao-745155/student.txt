@@ -1,5 +1,0 @@
-Student name: Hui Xiao
-Student number: 745155
-Student class: IT1C
-GitHub Repository: https://github.com/lumpy-in-inhollaand/web-markup
-GitHub Pages URL: https://github.com/lumpy-in-inhollaand
